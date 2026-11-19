@@ -30,3 +30,6 @@ venv/
 # 日志与临时文件
 *.log
 *.tmp
+
+# AI 助手工作目录（WorkBuddy 本地数据，不入库）
+.workbuddy/
